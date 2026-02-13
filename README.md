@@ -1,7 +1,7 @@
 # 3D-Printed_On-Road_RC_Race_Car
 Introduction
 
-This project showcases a 3D-printed RC race car that I designed and refined over the course of 18 months. As a physics student with a passion for vehicle dynamics, I wanted to combine my love for cars with hands-on learning. Inspired by YouTube creators like XF Motorsports, Indeterminate Design and the book Tune to Win by Carroll Smith, this project allowed me to explore the fascinating and complex field of vehicle dynamics.
+This repository showcases a 3D-printed RC race car that I designed and refined over the course of 18 months. As a physics student with a passion for vehicle dynamics, I wanted to combine my love for cars with hands-on learning. Inspired by YouTube creators like XF Motorsports, Indeterminate Design and the book Tune to Win by Carroll Smith, this project allowed me to explore the fascinating and complex field of vehicle dynamics.
 
 The idea behind this project was not just to create an RC car, but to design one that reflects core principles of performance and handling. Through this process, I learned how concepts like weight distribution, suspension geometry, and grip dynamics work together to affect a vehicle’s behavior. This Instructable is a step-by-step guide to building your own RC car, while also offering insights into the design decisions.
 
