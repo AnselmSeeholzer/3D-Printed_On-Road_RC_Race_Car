@@ -3,7 +3,7 @@
 **By Anselm Seeholzer**
 
 With this 3d-printable RC-car I took part in the 2025 *Instructables Autodesk Make it Move Engeneering Student Contest* and the RC-car has won the *3D Printing Judge`s Price*.  
-Detailed building instructions with a complete .f3z-file can be found on the [Instructables](https://www.instructables.com/3D-Printed-On-Road-RC-Race-Car/) website. The Instructable (without pictures and .f3z-file) was also transferred in this repository with printable .3mf-files.
+Detailed building instructions with a complete .f3z-file can be found on the [Instructables](https://www.instructables.com/3D-Printed-On-Road-RC-Race-Car/) website. The Instructable (without pictures and .f3z-file) was also transferred in this repository with printable .3mf-files.  
 Videos can be found here:
 [Video1](https://youtu.be/ogYVA5u91Qc?si=TGJ7EXKurzWOe1Sa)
 [Video2](https://youtu.be/yxx4tnBufh8?si=RkOAHaVWVVsFRw-e)
