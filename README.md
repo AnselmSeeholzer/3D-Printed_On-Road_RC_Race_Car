@@ -6,7 +6,7 @@ With this 3d-printable RC-car I took part in the 2025 *Instructables Autodesk Ma
 Detailed building instructions can be found here on the [Instructables](https://www.instructables.com/3D-Printed-On-Road-RC-Race-Car/) website. The same guide with all pictures was also transferred in this repository but it is easier to read at Instrucables.  
 
 ![full_car_photo](https://github.com/AnselmSeeholzer/3D-Printed_On-Road_RC_Race_Car/blob/main/pictures_renders/full_car.jpg?raw=true)  
-![full_car_render](https://github.com/AnselmSeeholzer/3D-Printed_On-Road_RC_Race_Car/blob/main/pictures_renders/RC-Car2.1_2025-Jan-02_03-02-36PM-000_CustomizedView43578068177_png.png?raw=true)  
+![full_car_render](https://github.com/AnselmSeeholzer/3D-Printed_On-Road_RC_Race_Car/blob/main/pictures_renders/RC-Car2.1_2026-Feb-22_01-52-54PM-000_CustomizedView59793026783_png.png?raw=true)  
 
 Videos can be found here:
 [Video1](https://youtu.be/ogYVA5u91Qc?si=TGJ7EXKurzWOe1Sa)
