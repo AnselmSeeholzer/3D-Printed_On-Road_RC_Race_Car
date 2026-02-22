@@ -2,11 +2,7 @@
 
 **By Anselm Seeholzer**
 
-**Category:** Workshop / 3D Printing
-
 [View on Instructables](https://www.instructables.com/3D-Printed-On-Road-RC-Race-Car/)
-
-![Main Image](https://content.instructables.com/FCI/H88U/M5L1XVIP/FCIH88UM5L1XVIP.jpg)
 
 ---
 
@@ -173,8 +169,6 @@ All parts are printed with PLA if not stated else.
 For reference, I attached a file with the material and mass of each part (not including any hardware) I printed.
 
 A small safety precaution: wear protective glasses when removing supports.
-
-*Attachment: material_and_mass_of_each_part.pdf*
 
 ---
 
@@ -477,8 +471,6 @@ Anti-dive geometry was not included, as the lack of braking components made it u
 
 As I already pointed out, I'm nowhere near of being a suspension geometry expert, so keep that in mind. For those interested in learning more about suspension geometries, I highly recommend this introductory video by XF Motorsports.
 
-*Attachments: Front Suspension.pdf, Rear Suspension.pdf*
-
 ---
 
 ## Step 25: Strength and Stiffness
@@ -492,5 +484,3 @@ Furthermore in case of a frontal crash, the impact gets distributed from the fro
 ---
 
 ## Step 26: More Test Videos
-
-*(This step contains test videos showcasing the RC car in action.)*
