@@ -2,11 +2,16 @@
 
 **By Anselm Seeholzer**
 
-**Category:** Workshop / 3D Printing
+With this 3d-printable RC-car I took part in the 2025 *Instructables Autodesk Make it Move Engeneering Student Contest* and the RC-car has won the *3D Printing Judge`s Price*.  
+Detailed building instructions can be found here on the [Instructables](https://www.instructables.com/3D-Printed-On-Road-RC-Race-Car/) website. The same guide with all pictures was also transferred in this repository but it is easier to read at Instrucables.  
 
-[View on Instructables](https://www.instructables.com/3D-Printed-On-Road-RC-Race-Car/)
+![full_car_photo](https://github.com/AnselmSeeholzer/3D-Printed_On-Road_RC_Race_Car/blob/main/pictures_renders/full_car.jpg?raw=true)  
+![full_car_render](https://github.com/AnselmSeeholzer/3D-Printed_On-Road_RC_Race_Car/blob/main/pictures_renders/RC-Car2.1_2025-Jan-02_03-02-36PM-000_CustomizedView43578068177_png.png?raw=true)  
 
-![Main Image](https://content.instructables.com/FCI/H88U/M5L1XVIP/FCIH88UM5L1XVIP.jpg)
+Videos can be found here:
+[Video1](https://youtu.be/ogYVA5u91Qc?si=TGJ7EXKurzWOe1Sa)
+[Video2](https://youtu.be/yxx4tnBufh8?si=RkOAHaVWVVsFRw-e)
+[Video3](https://youtu.be/c6_NunxIvkY?si=fuwjfYf_-NPKvzkU)
 
 ---
 
@@ -493,4 +498,7 @@ Furthermore in case of a frontal crash, the impact gets distributed from the fro
 
 ## Step 26: More Test Videos
 
-*(This step contains test videos showcasing the RC car in action.)*
+https://youtu.be/c6_NunxIvkY?si=WqnR-BRy5YHN8YEP
+https://youtu.be/yxx4tnBufh8?si=RkOAHaVWVVsFRw-e  
+https://youtu.be/c6_NunxIvkY?si=fuwjfYf_-NPKvzkU
+
