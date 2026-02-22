@@ -1,5 +1,6 @@
 # 3D-Printed On-Road RC Race Car
-![full_car](https://github.com/AnselmSeeholzer/3D-Printed_On-Road_RC_Race_Car/blob/main/pictures_renders/full_car.jpg?raw=true)
+![full_car_photo](https://github.com/AnselmSeeholzer/3D-Printed_On-Road_RC_Race_Car/blob/main/pictures_renders/full_car.jpg?raw=true)  
+![full_car_render](https://github.com/AnselmSeeholzer/3D-Printed_On-Road_RC_Race_Car/blob/main/pictures_renders/RC-Car2.1_2025-Jan-02_03-02-36PM-000_CustomizedView43578068177_png.png?raw=true)  
 With this 3d-printable RC-car I took part in the 2025 *Instructables Autodesk Make it Move Engeneering Student Contest* and the RC-car has won the *3D Printing Judge`s Price*.  
 
 Detailed building instructions can be found here on the Instructalbes website: https://www.instructables.com/3D-Printed-On-Road-RC-Race-Car/. This guide can be also found under /guide/ in this repository but it is easier to read at the website provided.  
