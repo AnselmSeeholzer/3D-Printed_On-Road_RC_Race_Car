@@ -1,9 +1,4 @@
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!! Print with similar settings to the "real print" !!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 
 The first test print is an object to determine wether my parameters fit yours or if they need to be adjusted. 
 
@@ -12,6 +7,7 @@ In the image "xxx" you can see where to put which nut/bolt/bearing/insert.
 
 If some features in this print are too wide or narrow, you can adjust the according parameters in Fusion360 and export the ToleranceTestObject again.
 
+Only adjust the parameters mentioned in the README. Adjusting other parameters might cause conflicts in Fusion360s timeline.
 Here are my personal parameter values and the ranges in which each parameter can can safely be modified:
 
 	M2InsertDia = 0.3 cm	M2 threaded brass insert diameter (tested in Fusion360 from 0.28 cm to 0.35 cm)
@@ -26,9 +22,3 @@ Here are my personal parameter values and the ranges in which each parameter can
 
 	Bearing963Dia = 0.81 cm	(963 bearing diameter) (tested in Fusion360 from 0.78 cm to 0.86 cm)
 	BearingMR105Dia = 1.0125 cm (MR105 bearing diameter) (tested in Fusion360 from 0.98 cm to 1.06 cm)
-
-
-(Only adjust the parameters mentioned in the READMEs. Adjusting other parameters might cause conflicts in Fusion360s timeline.)
-
-
-
