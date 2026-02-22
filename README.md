@@ -167,7 +167,7 @@ Looking back, this project wasn't just about building an RC car -- it was also a
   - 16mm (4x)
 - M4 lock nut (8x)
 - M4 washer (diameter under 12 mm) (4x)
-- Bearing 963 (x18)
+- Bearing 693 (x18)
 - Bearing MR105 (1x)
 
 ---
@@ -282,7 +282,7 @@ The next part to be printed is the FrontBase.
 
 You have to use some supports when printing it. I recommend using tree supports. Remove them by using pliers.
 
-Use a relatively long M3 screw, a M3 nut and washers (I only use a washer on one side in this example, but it is better to use one on each side) to press the 963 bearings in place without forgetting the bearing spacer, which needs to be inserted between both bearings for smooth operation.
+Use a relatively long M3 screw, a M3 nut and washers (I only use a washer on one side in this example, but it is better to use one on each side) to press the 693 bearings in place without forgetting the bearing spacer, which needs to be inserted between both bearings for smooth operation.
 
 Repeat the process for the other bearings.
 
@@ -304,9 +304,9 @@ Apply some grease to the spherical bearings.
 
 ## Step 9: The Steer Lever and Coupler
 
-Print the right and left steer lever, remove the support material and press the 963 bearings with the bearing spacers into their holes by using the same technique as before.
+Print the right and left steer lever, remove the support material and press the 693 bearings with the bearing spacers into their holes by using the same technique as before.
 
-After printing the steer lever coupler, press the 963 bearings into the holes. The 963 bearings needs a very tight fit on this part. Printing it with a slightly higher flower rate results in a smaller inner diameter of the hole, which ensures a tight fit.
+After printing the steer lever coupler, press the 693 bearings into the holes. The 693 bearings needs a very tight fit on this part. Printing it with a slightly higher flower rate results in a smaller inner diameter of the hole, which ensures a tight fit.
 
 ---
 
@@ -340,7 +340,7 @@ This part transmits a lot of power from the hub to the rear base. The part will 
 
 After printing, remove the support structures of the lower wishbone after printing it.
 
-Press a 963 bearing in each of the four holes.
+Press a 693 bearing in each of the four holes.
 
 Mount the shock to the lower wishbone by using a M3 socket head screw (18 mm) and a M3 square nut.
 
@@ -352,7 +352,7 @@ Mirror the part in your slicer and repeat the process for the other side.
 
 ## Step 13: The Rear Upper Wishbones
 
-After printing the rear upper wishbone, press two 963 bearings with their bearing spacer into their holes by using the same technique as before. Insert and M3 lock nut into its position.
+After printing the rear upper wishbone, press two 693 bearings with their bearing spacer into their holes by using the same technique as before. Insert and M3 lock nut into its position.
 
 Repeat the process again, as the right and left versions of this part are identical.
 
@@ -362,7 +362,7 @@ Repeat the process again, as the right and left versions of this part are identi
 
 Print the rear base with tree supports and remove them with pliers.
 
-Press two 963 bearings with their spacers in each the left and right side.
+Press two 693 bearings with their spacers in each the left and right side.
 
 Insert the eight M3 brass inserts into their holes by using a soldering iron.
 
