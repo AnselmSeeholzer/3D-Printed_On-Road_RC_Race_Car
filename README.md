@@ -1,18 +1,15 @@
 # 3D-Printed On-Road RC Race Car
 
-**By Anselm Seeholzer**
+Videos can be found here:
+[Video1](https://youtu.be/ogYVA5u91Qc?si=TGJ7EXKurzWOe1Sa)
+[Video2](https://youtu.be/yxx4tnBufh8?si=RkOAHaVWVVsFRw-e)
+[Video3](https://youtu.be/c6_NunxIvkY?si=fuwjfYf_-NPKvzkU)
 
 With this 3d-printable RC-car I took part in the 2025 *Instructables Autodesk Make it Move Engeneering Student Contest* and the RC-car has won the *3D Printing Judge`s Price*.  
 
 Detailed building instructions with a complete .f3z-file can be found on the [Instructables](https://www.instructables.com/3D-Printed-On-Road-RC-Race-Car/) website. The Instructable (without pictures and .f3z-file) was also transferred in this repository with printable .3mf-files.  
 
 Some additional information about e.g. the suspension layout, BoM can be found in /some_information_about_the_rccar/
-
-Videos can be found here:
-[Video1](https://youtu.be/ogYVA5u91Qc?si=TGJ7EXKurzWOe1Sa)
-[Video2](https://youtu.be/yxx4tnBufh8?si=RkOAHaVWVVsFRw-e)
-[Video3](https://youtu.be/c6_NunxIvkY?si=fuwjfYf_-NPKvzkU)
-
 ![full_car_photo](https://github.com/AnselmSeeholzer/3D-Printed_On-Road_RC_Race_Car/blob/main/pictures_renders/full_car.jpg?raw=true)  
 ![full_car_render](https://github.com/AnselmSeeholzer/3D-Printed_On-Road_RC_Race_Car/blob/main/pictures_renders/RC-Car2.1_2026-Feb-22_01-52-54PM-000_CustomizedView59793026783_png.png?raw=true)  
 ![full_car_render](https://github.com/AnselmSeeholzer/3D-Printed_On-Road_RC_Race_Car/blob/main/pictures_renders/_N6A6480.jpg?raw=true)  
